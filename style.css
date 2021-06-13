@@ -21,7 +21,6 @@ body {
 }
 
 .search .input {
-    border-radius: 20px;
     background-color: #fff;
     border: 0;
     font-size: 18px;
@@ -36,7 +35,6 @@ body {
     border: 0;
     cursor: pointer;
     font-size: 24px;
-    border-radius: 20px;
     position: absolute;
     top: 0;
     left: 0;
